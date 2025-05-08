@@ -1,8 +1,6 @@
 html{
-   background:url(./imagenes/Fondo.png);
+background-image: url("../imagenes/Fondo.png");
 }
-
-
 
 * {
    -webkit-box-sizing: border-box;
